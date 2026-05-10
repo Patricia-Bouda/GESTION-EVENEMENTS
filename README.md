@@ -30,7 +30,6 @@ npm install
 ```bash
 npm run dev
 ```
-
 ## Fonctionnalités
 
 - Liste des événements
@@ -40,12 +39,12 @@ npm run dev
 - Création événement
 - Responsive design
 - Loading state
-
+  
 ## Choix techniques
 
 Le projet a été réalisé avec Next.js afin de bénéficier d’un routage simple et d’une architecture React moderne.
 
 Tailwind CSS a été utilisé pour accélérer le développement de l’interface utilisateur responsive.
 
-Les données sont mockées localement pour se concentrer sur la partie frontend demandée.
->>>>>>> dd5fce9 (first commit)
+Les données sont simulées localement pour faciliter le développement de l'interface utilisateur sans backend.
+
