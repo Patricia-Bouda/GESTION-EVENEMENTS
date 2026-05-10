@@ -1,6 +1,4 @@
 # GESTION-EVENEMENTS
-<<<<<<< HEAD
-=======
 
 ## Stack utilisée
 
